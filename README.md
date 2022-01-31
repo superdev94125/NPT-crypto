@@ -1,2 +1,2 @@
-# NPT-crypto
-It is a ICO project using Mern Stack
+# crypto
+Dapp for DEX
